@@ -1,6 +1,6 @@
 # automateboringstuff1stedition
 
-This package installs the modules used in "Automate the Boring Stuff with Python", 1st Edition, and the online Udemy course. If you have the 2nd edition of the book, you'll want to install `automateboringstuff` instead.
+This package installs the modules used in "Automate the Boring Stuff with Python", 1st Edition, and the online Udemy course. If you have the 1st edition of the book, you'll want to install `automateboringstuff` instead.
 
 This book, along with all of Al Sweigart's programming books, is freely available under a Creative Commons license at https://inventwithpython.com
 
