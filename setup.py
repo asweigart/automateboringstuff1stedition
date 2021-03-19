@@ -32,7 +32,7 @@ setup(
         'imapclient==2.1.0',
         'pyzmail36==1.0.4',
         'twilio',
-        'pillow==6.0.0',
+        'pillow==8.1.1',
         'pyautogui',
     ],
     keywords="automate boring stuff python",
