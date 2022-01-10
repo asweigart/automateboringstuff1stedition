@@ -1,4 +1,5 @@
-# automateboringstuff1stedition
+automateboringstuff1stedition
+===================
 
 This package installs the modules used in "Automate the Boring Stuff with Python", 1st Edition, and the online Udemy course. If you have the 1st edition of the book, you'll want to install `automateboringstuff` instead.
 
@@ -29,7 +30,8 @@ This will install the following modules:
 * `pyautogui`
 
 
-# Note About Pyzmail36
+Note About Pyzmail36
+===================
 
 This module doesn't install `pyzmail36`. The latest version of Python's `setuptools` module has deprecated some functionality, and trying to install `pyzmail36` with it results in a "use_2to3 is invalid" error message.
 
