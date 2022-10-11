@@ -26,7 +26,7 @@ This will install the following modules:
 * `python-docx==0.8.10`
 * `imapclient==2.1.0`
 * `twilio`
-* `pillow==6.0.0`
+* `pillow==9.2.0`
 * `pyautogui`
 
 
