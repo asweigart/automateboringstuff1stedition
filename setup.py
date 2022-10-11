@@ -27,7 +27,7 @@ setup(
         'requests==2.21.0',
         'beautifulsoup4==4.7.1',
         'selenium==3.141.0',
-        'openpyxl==2.1.4',
+        'openpyxl==2.4.2',
         'PyPDF2==1.26.0',
         'python-docx==0.8.10',
         'imapclient==2.1.0',
