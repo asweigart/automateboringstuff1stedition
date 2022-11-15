@@ -33,7 +33,7 @@ setup(
         'imapclient==2.1.0',
         #'pyzmail36==1.0.4', # Removed because this can't be installed by setuptools versions after 58.0.0
         'twilio',
-        'pillow==9.2.0',
+        'pillow==9.3.0',
         'pyautogui',
     ],
     keywords="automate boring stuff python",
